@@ -1,2 +1,1 @@
-# portfolio.project1
-portfolio responsive site with great animations.
+responsive site with great animations.
